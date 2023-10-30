@@ -1,0 +1,404 @@
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 250
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 318
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 459
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 440
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 291
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 282
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 459
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 430
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 297
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 286
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 495
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 298
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 343
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 161
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 213
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 211
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 464
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 237
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 359
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 115
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 235
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 258
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 412
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 411
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 435
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 275
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 112
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 316
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 164
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 396
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 231
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 313
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 238
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 397
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 334
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 231
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 372
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 215
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 236
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 292
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 225
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 299
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 418
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 219
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 391
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 233
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 234
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 254
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 326
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 385
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 383
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 455
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 270
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 494
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 359
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 414
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 439
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 322
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 394
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 461
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 269
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 196
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 457
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 168
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 188
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 294
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 298
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 398
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 299
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 417
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 283
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 263
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 449
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 313
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 193
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 226
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 167
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 297
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 415
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 440
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 155
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 237
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 326
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 289
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 234
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 269
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 227
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 265
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 435
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 280
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 258
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 213
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 459
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 220
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 280
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 183
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 390
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 186
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 211
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 315
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 269
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 384
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 377
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 227
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 193
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 264
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 266
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 296
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 291
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 446
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 299
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 349
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 126
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 264
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 337
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 221
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 192
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 278
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 481
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 251
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 138
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 256
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 186
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 223
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 214
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 116
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 145
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 317
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 122
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 330
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 462
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 413
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 336
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 439
+'in' Route 2 -> 'out' Route 2 - 
+Vehicle Number: 351
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 287
+'in' Route 2 -> 'out' Route 1 - 
+Vehicle Number: 281
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 343
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 244
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 278
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 359
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 394
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 220
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 311
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 194
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 410
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 246
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 165
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 256
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 417
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 281
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 355
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 250
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 211
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 353
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 340
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 250
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 142
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 480
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 496
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 488
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 159
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 295
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 324
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 424
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 390
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 438
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 194
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 388
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 367
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 344
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 248
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 326
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 448
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 374
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 132
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 248
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 232
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 282
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 397
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 335
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 487
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 453
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 198
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 226
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 255
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 230
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 225
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 214
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 494
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 229
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 432
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 211
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 265
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 178
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 215
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 344
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 165
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 386
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 255
+'in' Route 3 -> 'out' Route 2 - 
+Vehicle Number: 221
+'in' Route 3 -> 'out' Route 1 - 
+Vehicle Number: 210
